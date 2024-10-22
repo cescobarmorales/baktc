@@ -1,0 +1,57 @@
+[  {
+    "id": 1,
+    "nombre": "Camisa Larga Sky",
+    "cantidad": 1,
+    "precio": "12000",
+    "img": "img/products/n1.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Camisa Larga Cuadrille",
+    "cantidad": 1,
+    "precio": "13400",
+    "img": "img/products/n2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Camisa Larga White",
+    "cantidad": 1,
+    "precio": "12600",
+    "img": "img/products/n3.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Camisa Corta Camo",
+    "cantidad": 1,
+    "precio": "12980",
+    "img": "img/products/n4.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Camisa Larga Mezclilla",
+    "cantidad": 1,
+    "precio": "17800",
+    "img": "img/products/n5.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Short Classic",
+    "cantidad": 1,
+    "precio": "15700",
+    "img": "img/products/n6.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Camisa Larga Beige",
+    "cantidad": 1,
+    "precio": "12100",
+    "img": "img/products/n7.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Camisa Corta Black",
+    "cantidad": 1,
+    "precio": "11600",
+    "img": "img/products/n8.jpg"
+  }
+]
